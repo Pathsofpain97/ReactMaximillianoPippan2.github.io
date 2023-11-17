@@ -5,7 +5,7 @@ export const products = [
         description: "Hamburguesa clasica con cheddar y pepinillos", 
         price: 480, 
         category: "Hamburguesas",
-        imagen: "../src/assets/burger 1.jpg",
+        imagen: "../public/img/burger 1.jpg",
     },
     {
         id: "2", 
@@ -13,7 +13,7 @@ export const products = [
         description: "Hamburguesa de dos carnes y salsa Alioli", 
         price: 490, 
         category: "Hamburguesas",
-        imagen: "../src/assets/burger 2.jpg",
+        imagen: "../public/img/burger 2.jpg",
     },
     {
         id: "3", 
@@ -21,7 +21,7 @@ export const products = [
         description: "Hamburguesa de una carne con huevo", 
         price: 510, 
         category: "Hamburguesas",
-        imagen: "../src/assets/burger 3.jpg",
+        imagen: "../public/img/burger 3.jpg",
     },
     {
         id: "4", 
@@ -29,7 +29,7 @@ export const products = [
         description: "Hamburguesa de berenjena. Completamente Vegana", 
         price: 530, 
         category: "Hamburguesas",
-        imagen: "../src/assets/burger 4.jpg",
+        imagen: "../public/img/burger 4.jpg",
     },
     {
         id: "5", 
@@ -37,7 +37,7 @@ export const products = [
         description: "Hamburguesa de dos carnes con cebolla caramelizada", 
         price: 530, 
         category: "Hamburguesas",
-        imagen: "../src/assets/burger 5.jpg",
+        imagen: "../public/img/burger 5.jpg",
     },
     {
         id: "6", 
@@ -45,7 +45,7 @@ export const products = [
         description: "Hamburguesa de dos carnes clasica con vegetales", 
         price: 540, 
         category: "Hamburguesas",
-        imagen: "../src/assets/burger 6.jpg",
+        imagen: "../public/img/burger 6.jpg",
     },
     {
         id: "7", 
@@ -53,7 +53,7 @@ export const products = [
         description: "Hambuesa de una carne con mix de vegetales", 
         price: 560, 
         category: "Hamburguesas",
-        imagen: "../src/assets/burger 7.jpg",
+        imagen: "../public/img/burger 7.jpg",
     },
     {
         id: "8", 
@@ -61,7 +61,7 @@ export const products = [
         description: "Hambuesa clasica con cuatro carnes y puro cheddar", 
         price: 630, 
         category: "Hamburguesas",
-        imagen: "../src/assets/burger 8.jpg",
+        imagen: "../public/img/burger 8.jpg",
     },
     {
         id: "9", 
@@ -69,7 +69,7 @@ export const products = [
         description: "Papa fritas clasicas estilo frances", 
         price: 280, 
         category: "Guarniciones",
-        imagen: "../src/assets/papas fritas.jpg",
+        imagen: "../public/img/papas fritas.jpg",
     },
     {
         id: "10", 
@@ -77,7 +77,7 @@ export const products = [
         description: "Papa fritas con cheddar y bacon", 
         price: 330, 
         category: "Guarniciones",
-        imagen: "../src/assets/papas fritas cheddar.jpg",
+        imagen: "../public/img/papas fritas cheddar.jpg",
     },
     {
         id: "11", 
@@ -85,7 +85,7 @@ export const products = [
         description: "Nuggets de pollo rebozados", 
         price: 350, 
         category: "Guarniciones",
-        imagen: "../src/assets/nuggets.jpg",
+        imagen: "../public/img/nuggets.jpg",
     },
     {
         id: "12", 
@@ -93,7 +93,7 @@ export const products = [
         description: "Aros de cebolla clasicos", 
         price: 360, 
         category: "Guarniciones",
-        imagen: "../src/assets/aros de cebolla.jpg",
+        imagen: "../public/img/aros de cebolla.jpg",
     },
     {
         id: "13", 
@@ -101,7 +101,7 @@ export const products = [
         description: "Coca-Cola en lata", 
         price: 130, 
         category: "Bebidas",
-        imagen: "../src/assets/coca cola.jpg",
+        imagen: "../public/img/coca cola.jpg",
     },
     {
         id: "14", 
@@ -109,7 +109,7 @@ export const products = [
         description: "Fanta en lata", 
         price: 130, 
         category: "Bebidas",
-        imagen: "../src/assets/fanta.jpg",
+        imagen: "../public/img/fanta.jpg",
     },
     {
         id: "15", 
@@ -117,7 +117,7 @@ export const products = [
         description: "Sprite en lata", 
         price: 130, 
         category: "Bebidas",
-        imagen: "../src/assets/sprite.jpg",
+        imagen: "../public/img/sprite.jpg",
     },
     {
         id: "16", 
@@ -125,7 +125,7 @@ export const products = [
         description: "Jugo naranja puro", 
         price: 160, 
         category: "Bebidas",
-        imagen: "../src/assets/jugo de naranja.jpg",
+        imagen: "../public/img/jugo de naranja.jpg",
     },
     {
         id: "17", 
@@ -133,7 +133,7 @@ export const products = [
         description: "Churros clasicos", 
         price: 250, 
         category: "Postres",
-        imagen: "../src/assets/churros.jpg",
+        imagen: "../public/img/churros.jpg",
     },
     {
         id: "18", 
@@ -141,7 +141,7 @@ export const products = [
         description: "Brownie de la casa", 
         price: 260, 
         category: "Postres",
-        imagen: "../src/assets/brownie.jpg",
+        imagen: "../public/img/brownie.jpg",
     },
     {
         id: "19", 
@@ -149,7 +149,7 @@ export const products = [
         description: "Torta Oreo de la casa", 
         price: 270, 
         category: "Postres",
-        imagen: "../src/assets/torta oreo.jpg",
+        imagen: "../public/img/torta oreo.jpg",
     },
     {
         id: "20", 
@@ -157,6 +157,6 @@ export const products = [
         description: "Tiramisu de la casa", 
         price: 290, 
         category: "Postres",
-        imagen: "../src/assets/tiramisu.jpg",
+        imagen: "../public/img/tiramisu.jpg",
     },
     ];
