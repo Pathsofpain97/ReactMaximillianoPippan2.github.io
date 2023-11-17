@@ -1,0 +1,4 @@
+.navbar-links {
+  gap: 1rem;
+  /* solo funciona cuando el padre es flex o grid */
+}
